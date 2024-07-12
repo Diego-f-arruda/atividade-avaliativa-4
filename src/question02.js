@@ -1,1 +1,0 @@
-palavraInvertida.join().replaceAll(",", "")
